@@ -1,5 +1,5 @@
 # Tech Crunch UI Prototype
-This is a prototype of yelp.com. It is responsive desktop, tablet and mobile devices.
+This is a prototype of Tech Crunch.It is responsive to desktop, tablet and mobile devices.
 
 **Link to project:** https://techcrunchsite.netlify.com/
 
